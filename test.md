@@ -57,7 +57,7 @@ Internet
 
 ### This attachment list
 
-![Sample image](attachment://191001_Homepage_hero_image_FI_EN.png)
+![Sample image](191001_Homepage_hero_image_FI_EN.png)
 
 
 ### Task list
