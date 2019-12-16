@@ -70,3 +70,5 @@ Internet
 ### User reference
 
 Here is user @Ruslan @{Ruslan}
+
+![Project status](https://raster.shields.io/badge/updated-today-brightgreen)
