@@ -14,7 +14,7 @@ base_url = "https://workspace.atlassian.net/wiki"
 
 ## Sync
 ```bash
-./mark -f test.md  --debug --trace
+pipe-git-updated xargs -n 1 ./mark --debug --trace -f
 ```
 
 ## Issues
